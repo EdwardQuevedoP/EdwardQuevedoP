@@ -2,7 +2,7 @@
 ![Ejemplo de GIF](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior2.gif)
 
 
-##info
+## INF
 - Nombre: Edward Quevedo
 - Correo : edwardquevedop@gmail.com
 - Telefono : 3146516064
