@@ -3,9 +3,9 @@
 
 
 # info
-Nombre: Edward Quevedo
-Correo : edwardquevedop@gmail.com
-Telefono : 3146516064
+-Nombre: Edward Quevedo
+-Correo : edwardquevedop@gmail.com
+-Telefono : 3146516064
 
 # Hola, soy Edward Quevedo 👋
 
