@@ -5,7 +5,6 @@
 ## INF
 - Nombre: Edward Quevedo
 - Correo : edwardquevedop@gmail.com
-- Telefono : 3146516064
 
 # Hola, soy Edward Quevedo 👋
 
@@ -15,7 +14,7 @@ Backend Developer Junior | Estudiante de preparatoria
 ¡Hola! Soy Edward Quevedo, un apasionado backend developer junior en constante aprendizaje. Actualmente, estoy cursando la preparatoria y estoy emocionado por mi crecimiento en el mundo del desarrollo de software.
 
 ## Habilidades Técnicas
-- Lenguajes:  Java script
+- Lenguajes:  JavaScript
 - Frameworks: Express.js (JavaScript - Node.js)
 - Bases de datos: MySQL, MongoDB
 - Herramientas: Git, Docker, postman 
