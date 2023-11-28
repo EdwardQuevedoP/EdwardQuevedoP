@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![Uploading 21116158daaeb1459b4ec0758505e1ad.gif…]()
+[Uploading 21116158daaeb1459b4ec0758505e1ad.gif…]
 
 
 <!---
