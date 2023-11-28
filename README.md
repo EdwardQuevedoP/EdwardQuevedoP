@@ -1,5 +1,5 @@
 
-![Ejemplo de GIF](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior.gif)
+![Ejemplo de GIF](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior2.gif)
 
 
 
