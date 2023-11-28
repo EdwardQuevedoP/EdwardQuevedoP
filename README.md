@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
 ![Ejemplo de GIF](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior.gif)
 
 
