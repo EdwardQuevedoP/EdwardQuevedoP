@@ -34,7 +34,7 @@ Backend Developer Junior | Estudiante de preparatoria
 -------------------
 ## Certificaciones y Cursos
 
-- Curso de creacion de apps moviles [MIT App Inventor] 
+- Curso de creacion de apps moviles 
 
 ## Hobbies e Intereses
 En mi tiempo libre, disfruto de mirar contenido educativo sobre programacion en backend
