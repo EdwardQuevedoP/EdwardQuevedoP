@@ -1,5 +1,5 @@
 
-![Ejemplo de GIF](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior.gif)
+![animation](https://raw.githubusercontent.com/EdwardQuevedoP/EdwardQuevedoP/main/junior.gif)
 
 
 ## INF
@@ -8,10 +8,10 @@
 
 # Hola, soy Edward Quevedo 👋
 
-Backend Developer Junior | Estudiante de preparatoria
+Backend Developer con 1 año de experiencia | Estudiante de preparatoria
 
 ## Acerca de mí
-¡Hola! Soy Edward Quevedo, un apasionado backend developer junior en constante aprendizaje. Actualmente, estoy cursando la preparatoria y estoy emocionado por mi crecimiento en el mundo del desarrollo de software.
+¡Hola! Soy Edward Quevedo, un apasionado backend developer en constante aprendizaje. Actualmente, estoy cursando la preparatoria y estoy emocionado por mi crecimiento en el mundo del desarrollo de software.
 
 ## Habilidades Técnicas En Desarrollo
 - Lenguajes:  JavaScript
@@ -28,7 +28,7 @@ Backend Developer Junior | Estudiante de preparatoria
 - **Backend Developer - [BOOTCAMP]:** realice un bootcamp sobre el tema backend developer
 
 ## Educación
-- Preparatoria [HENRY DANIELS ] me pienso graduar en el año 2027
+- Preparatoria [HENRY DANIELS] 
 
 ## Enlaces Adicionales
 -------------------
@@ -37,7 +37,7 @@ Backend Developer Junior | Estudiante de preparatoria
 - Curso de creacion de apps moviles 
 
 ## Hobbies e Intereses
-En mi tiempo libre, disfruto de mirar contenido educativo sobre programacion en backend
+En mi tiempo libre, disfruto de mirar contenido educativo sobre programacion en backend y javaScrpit
 
 ¡Gracias por visitar mi perfil! Estoy abierto a colaboraciones y aprendizajes conjuntos. 😊
 
