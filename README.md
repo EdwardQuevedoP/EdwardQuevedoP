@@ -13,10 +13,10 @@ Backend Developer Junior | Estudiante de preparatoria
 ## Acerca de mí
 ¡Hola! Soy Edward Quevedo, un apasionado backend developer junior en constante aprendizaje. Actualmente, estoy cursando la preparatoria y estoy emocionado por mi crecimiento en el mundo del desarrollo de software.
 
-## Habilidades Técnicas
+## Habilidades Técnicas En Desarrollo
 - Lenguajes:  JavaScript
 - Frameworks: Express.js (JavaScript - Node.js)
-- Bases de datos: MySQL, MongoDB
+- Bases de datos: Vercel 
 - Herramientas: Git, Docker, postman 
 
 ## Proyectos Destacados
